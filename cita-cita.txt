@@ -1,4 +1,5 @@
 -saya ingin menguasai python dasar
 -saya ingin lebih dalam mengendal OOP pada python
--ingin bisa menguasai web scraping
 -mudah mudahan ada yang mengajari saya object oriented design
+-menguasai beautifullsoup
+-menguasai scrapy
